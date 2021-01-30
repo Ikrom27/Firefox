@@ -5,3 +5,6 @@
 @import url("content/tabs_design.css");
 @import url("content/tabs_on_bottom.css");
 @import url("content/windows_bottom_space.css");
+
+/*https://www.reddit.com/r/FirefoxCSS/comments/l8nno1/startpage_on_urlbar/*/
+#identity-box.extensionPage{ display:none }
