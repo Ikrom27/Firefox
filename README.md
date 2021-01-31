@@ -1,7 +1,7 @@
 # Firefox
-This is Firefox themes
+###### This is Firefox themes ######
 
-#### Setup ####
+# Setup #
 
 # Enable userChrome customization in about:config #
 
