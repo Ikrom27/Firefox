@@ -31,3 +31,9 @@ Either of the following two methods work:
 * Click on ☰ ➝ personalization and set avrything as in settings.png
      
      _Required! In the tabbar, you must move the "new tab" icon to the Navbar_
+
+# Recomendations #
+
+    * This is [StartPage](https://addons.mozilla.org/ru/firefox/addon/infinity-new-tab-pro-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) wich i use
+    * This is for [costamization vertical scroll](https://addons.mozilla.org/en-GB/firefox/addon/custom-scrollbars/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+    * [Refresh button](https://addons.mozilla.org/ru/firefox/addon/australis-refresh-in-url-bar/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) in AddressBar
