@@ -9,7 +9,7 @@
 
 * Search for toolkit.legacyUserProfileCustomizations.stylesheets and toggle it to true (by double clicking on it).
     
-    For a visual walkthrough [Watch me do it](https://imgur.com/fc4NN0t) or [YouTube](https://www.youtube.com/watch?v=levqpofIJ_k&feature=youtu.be.)
+    _For a visual walkthrough [Watch me do it](https://imgur.com/fc4NN0t) or [YouTube](https://www.youtube.com/watch?v=levqpofIJ_k&feature=youtu.be.)_
 
 ### Locate and open your profile folder ###
 
@@ -19,5 +19,5 @@ Either of the following two methods work:
 
 * Using the Firefox command line Press Shift+F2 Enter the command folder openprofile
 
-    [original article](https://www.reddit.com/r/FirefoxCSS/wiki/index/tutorials/)
+    _[original article](https://www.reddit.com/r/FirefoxCSS/wiki/index/tutorials/)_
 
