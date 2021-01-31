@@ -21,3 +21,11 @@ Either of the following two methods work:
 
     _[original article](https://www.reddit.com/r/FirefoxCSS/wiki/index/tutorials/)_
 
+### Installation my Theme ###
+
+* You should have a Chrome folder here (If not, create it)
+* copy everything from the downloaded archive and paste it here
+    > _as a result, you should have a userChrome.css file and a content folder in the chrome folder (depending on the version, besides these two, there may be other files, but these two are required and necessary for correct work)_
+* Restart Brouser
+* Click on ☰ ➝ personalization and set avrything as in settings.png
+    > Required! In the tabbar, you must move the "new tab" icon to the Navbar
