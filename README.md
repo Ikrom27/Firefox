@@ -37,3 +37,8 @@ Either of the following two methods work:
    * This is [StartPage](https://addons.mozilla.org/ru/firefox/addon/infinity-new-tab-pro-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) wich i use
    * This is for [costamization vertical scroll](https://addons.mozilla.org/en-GB/firefox/addon/custom-scrollbars/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
    * [Refresh button](https://addons.mozilla.org/ru/firefox/addon/australis-refresh-in-url-bar/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) in AddressBar
+
+# For linux/Mac #
+
+If you have LEFT windows control buttons:
+unzip linux.rar to content folder
