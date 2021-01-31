@@ -3,7 +3,7 @@
 
 # Setup #
 
-# Enable userChrome customization in about:config #
+### Enable userChrome customization in about:config ###
 
 *Navigate to about:config in the address bar and accept the risks.
 
