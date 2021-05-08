@@ -32,7 +32,7 @@ Either of the following two methods work:
      
      _Required! In the tabbar, you must move the "new tab" icon to the Navbar_
 
-### Locate and open your profile folder ###
+### How to get Blur Effect ###
 
 Again go to about:config and search layout.css.backdrop-filter.enabled and switch it to true
 
