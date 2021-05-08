@@ -32,6 +32,10 @@ Either of the following two methods work:
      
      _Required! In the tabbar, you must move the "new tab" icon to the Navbar_
 
+### Locate and open your profile folder ###
+
+Again go to about:config and search layout.css.backdrop-filter.enabled and switch it to true
+
 # Recomendations #
 
    * This is [StartPage](https://addons.mozilla.org/ru/firefox/addon/infinity-new-tab-pro-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) wich i use
